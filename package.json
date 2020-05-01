@@ -1,0 +1,19 @@
+{
+    "name": "node-red-contrib-ui-nestlike",
+    "version": "0.1",
+    "description": "Node-RED UI widget for a Next like Thermostat",
+    "author" : "Adam Griffiths",
+    "license": "MIT",
+    "main": "nestlike.js",
+    "node-red": {
+        "nodes": {
+            "nestlike": "nestlike.js"
+        }
+    },
+    "repository" : {
+        "type" : "git",
+        "url": "https://github.com/aogriffiths/node-red-contrib-ui-nestlike"
+    },
+    "keywords": [
+    ]
+}
